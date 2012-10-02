@@ -1,3 +1,7 @@
+%
+% Draws random numbers from "Trappenberg Distribution"
+% Using Monte Carlo Method. 
+% 
 N = 100000;
 X = randi(785,N,1);
 Y = randi(20,N,1);
